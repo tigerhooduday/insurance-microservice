@@ -1,0 +1,5 @@
+com\insureme\insurance_service\controller\PolicyController.class
+com\insureme\insurance_service\repository\PolicyRepository.class
+com\insureme\insurance_service\InsuranceServiceApplication.class
+com\insureme\insurance_service\service\PolicyService.class
+com\insureme\insurance_service\entity\Policy.class
